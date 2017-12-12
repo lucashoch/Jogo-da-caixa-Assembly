@@ -1,0 +1,26 @@
+			     _______ _________          ______   _______ 		     Desenvolvido
+			    (  ___  )\__    _/|\     /|(  __  \ (  ___  )		          por
+			    | (   ) |   )  (  | )   ( || (  \  )| (   ) |		    
+			    | (___) |   |  |  | |   | || |   ) || (___) |		   Lucas	 Alvaro
+			    |  ___  |   |  |  | |   | || |   | ||  ___  |		Hochleitner	Magalhães
+			    | (   ) |   |  |  | |   | || |   ) || (   ) |		    da
+			    | )   ( ||\_)  )  | (___) || (__/  )| )   ( |		   Silva
+			    |/     \|(____/   (_______)(______/ |/     \|
+
+
+		Objetivo:     Voce precisa levar a caixa ate o local demarcado.
+
+		Jogabilidade: Quando o cenario for exibido, observe e analise as possibilidades.
+				Depois de ter analisado, escolha os movimentos do personagem
+				e confirme os movimentos. Apenas depois de confirmar, ele 
+				comeca a se mover na sequencia dos movimentos. Se, quando
+				parar, a caixa estiver no local correto, voce vai para o
+				proximo nivel. Senao, perde uma vida. Voce ganha mais pontos				       
+				se analisar mais rapido e se fizer o melhor caminho.
+				Divirta-se  =)
+
+		Controles:    Setas do teclado ou WASD para movimentar, Enter para confirmar.
+				      
+
+
+					Pressione Esc para voltar

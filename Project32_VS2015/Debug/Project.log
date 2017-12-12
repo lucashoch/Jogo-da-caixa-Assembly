@@ -1,0 +1,7 @@
+﻿  Assembling D:\Downloads\ascii.asm...
+D:\Downloads\ascii.asm(8): error A2071: initializer magnitude too large for specified size
+D:\Downloads\ascii.asm(8): error A2008: syntax error : titulo
+D:\Downloads\ascii.asm(51): error A2071: initializer magnitude too large for specified size
+D:\Downloads\ascii.asm(51): error A2008: syntax error : perdeuD:\Downloads\ascii.asm(69) : error A2071:initializer magnitude too large for specified size
+D:\Downloads\ascii.asm(69): error A2006: undefined symbol : titulo
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\ascii.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaD:\Downloads\ascii.asm" exited with code 1.
